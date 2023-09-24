@@ -1,16 +1,18 @@
 ![Header](./bg-github.jpg)
 
-Hi 👋 My name is Makar
-======================
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=mertismk&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=c,cpp,python,postgresql,tex&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
-* 🌍  I'm based in Moscow
-* 💻  School 21 student
-* ✉️  You can contact me at [t.me/mertismk](mailto:t.me/mertismk)
+<hr>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mertismk&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,c,cpp,postgresql)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=mertismk&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertismk&layout=compact&theme=omni" alt="Top languages" />
+</p>
