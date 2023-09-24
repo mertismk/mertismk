@@ -9,6 +9,6 @@ Hi 👋 My name is Makar
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mertismk&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,c,cpp,postgresql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,c,cpp,postgresql&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
