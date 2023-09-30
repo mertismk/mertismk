@@ -6,7 +6,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=c,cpp,python,postgresql,tex&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=c,cpp,python,postgresql,html,css&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
   </a>
 </p>
 
